@@ -1,0 +1,1323 @@
+﻿Log file open, 12/15/21 09:45:42
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BioPulse_V1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.258347
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz, GPU: NVIDIA Quadro K2200
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Engine.ini]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Engine.ini]
+[2021.12.15-08.45.43:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Engine.ini]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Engine.ini]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.15-08.45.43:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Engine.ini]
+[2021.12.15-08.45.43:152][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Engine.ini]
+[2021.12.15-08.45.43:161][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.15-08.45.43:161][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.15-08.45.43:162][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.15-08.45.43:162][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.15-08.45.43:162][  0]LogHAL: Display: Platform has ~ 16 GB [17093021696 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.15-08.45.43:162][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.15-08.45.43:162][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.15-08.45.43:162][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.15-08.45.43:163][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.15-08.45.43:164][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.15-08.45.43:164][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.15-08.45.43:164][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.15-08.45.43:164][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Engine.ini]
+[2021.12.15-08.45.43:164][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal_BioShock/BioPulse_V1/Saved/Config/Windows/Editor.ini]
+[2021.12.15-08.45.43:164][  0]LogInit: Computer: ELAINFO3813
+[2021.12.15-08.45.43:164][  0]LogInit: User: artsnum
+[2021.12.15-08.45.43:164][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.12.15-08.45.43:164][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.15-08.45.43:164][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.12.15-08.45.43:164][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.15-08.45.43:164][  0]LogMemory: Process Physical Memory: 137.34 MB used, 137.34 MB peak
+[2021.12.15-08.45.43:165][  0]LogMemory: Process Virtual Memory: 117.68 MB used, 117.68 MB peak
+[2021.12.15-08.45.43:165][  0]LogMemory: Physical Memory: 5523.47 MB used,  10777.70 MB free, 16301.18 MB total
+[2021.12.15-08.45.43:165][  0]LogMemory: Virtual Memory: 134205368.00 MB used,  12357.50 MB free, 134217728.00 MB total
+[2021.12.15-08.45.43:170][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.15-08.45.43:192][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.15-08.45.43:193][  0]LogInit: Using OS detected language (fr-FR).
+[2021.12.15-08.45.43:193][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.12.15-08.45.43:199][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.12.15-08.45.43:199][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.12.15-08.45.43:199][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.12.15-08.45.43:199][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.12.15-08.45.43:199][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.12.15-08.45.43:199][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.12.15-08.45.43:200][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.12.15-08.45.43:200][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.12.15-08.45.43:200][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.15-08.45.43:210][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.15-08.45.43:224][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.15-08.45.43:224][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.15-08.45.43:360][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.15-08.45.43:360][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.15-08.45.43:360][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.15-08.45.43:360][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.15-08.45.43:447][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2200' (Feature Level 11_0)
+[2021.12.15-08.45.43:447][  0]LogD3D11RHI:       4053/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.15-08.45.43:450][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.15-08.45.43:450][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.15-08.45.43:450][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.15-08.45.43:456][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.15-08.45.43:456][  0]LogD3D11RHI:     GPU DeviceId: 0x13ba (for the marketing name, search the web for "GPU Device Id")
+[2021.12.15-08.45.43:456][  0]LogWindows: EnumDisplayDevices:
+[2021.12.15-08.45.43:456][  0]LogWindows:    0. 'NVIDIA Quadro K2200' (P:1 D:1)
+[2021.12.15-08.45.43:457][  0]LogWindows:    1. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2021.12.15-08.45.43:457][  0]LogWindows:    2. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2021.12.15-08.45.43:457][  0]LogWindows:    3. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2021.12.15-08.45.43:457][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.15-08.45.43:457][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2200
+[2021.12.15-08.45.43:457][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.12.15-08.45.43:457][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.12.15-08.45.43:457][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2021.12.15-08.45.43:530][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.15-08.45.43:531][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.15-08.45.43:550][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.15-08.45.43:552][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.15-08.45.43:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.15-08.45.43:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.15-08.45.43:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.15-08.45.43:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.15-08.45.43:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.15-08.45.43:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.15-08.45.43:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.15-08.45.43:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.15-08.45.43:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.15-08.45.43:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.15-08.45.43:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.15-08.45.43:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.15-08.45.43:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.15-08.45.44:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.15-08.45.44:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.15-08.45.44:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.15-08.45.44:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.15-08.45.44:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.15-08.45.44:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.15-08.45.44:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.15-08.45.44:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.15-08.45.44:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.15-08.45.44:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.15-08.45.44:088][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.15-08.45.44:095][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.15-08.45.44:153][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.15-08.45.44:154][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (F:/Unreal_BioShock/BioPulse_V1/Intermediate/Shaders/WorkingDirectory/4060/).
+[2021.12.15-08.45.44:154][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/artsnum/AppData/Local/Temp/UnrealShaderWorkingDir/91CB0F884BD3119CE38430ACDE4C7D51/'.
+[2021.12.15-08.45.44:154][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.15-08.45.44:154][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.15-08.45.44:946][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.15-08.45.45:001][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/artsnum/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.15-08.45.45:001][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/artsnum/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.12.15-08.45.45:001][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Unreal_BioShock/BioPulse_V1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.15-08.45.45:001][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.15-08.45.45:001][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Unreal_BioShock/BioPulse_V1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.15-08.45.45:001][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.15-08.45.45:012][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.15-08.45.45:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.15-08.45.45:012][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.15-08.45.45:021][  0]LogDerivedDataCache: Speed tests for C:/Users/artsnum/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.15-08.45.45:022][  0]LogDerivedDataCache: Display: Performance to C:/Users/artsnum/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=255.80MBs, RandomWriteSpeed=186.99MBs. Assigned SpeedClass 'Local'
+[2021.12.15-08.45.45:022][  0]LogDerivedDataCache: Using Local data cache path C:/Users/artsnum/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.15-08.45.45:022][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.15-08.45.45:022][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.15-08.45.45:073][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.15-08.45.45:073][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.15-08.45.45:101][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2021.12.15-08.45.45:326][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.15-08.45.45:326][  0]LogInit: Active device profile: [000002299AE5B100][00000229FA78B340 49] Windows
+[2021.12.15-08.45.45:326][  0]LogInit: Profiles: [000002299AE5B100][00000229FA78B340 49] Windows, [000002299AE25000][00000229934494C0 49] WindowsNoEditor, [000002299AE59000][000002299344D640 49] WindowsServer, [000002299AE26D00][0000022993445780 49] WindowsClient, [000002299AE5AC00][00000229934518C0 49] IOS, [000002299AE26E00][0000022993455A00 49] iPadAir, [000002299AE59500][0000022993995B80 49] iPadAir2, [000002299ADF0A00][000002299399C180 49] IPadPro, [000002299ADF0B00][00000229939981C0 49] iPadAir3, [000002299AE5AA00][00000229939A0340 49] iPadAir4, [000002299ADF3300][00000229939A44C0 49] iPadMini2, [000002299AE58E00][00000229939A8640 49] iPadMini3, [000002299ADF2100][00000229939AC7C0 49] iPadMini4, [000002299AE5A700][00000229939B0940 49] iPadMini5, [000002299AE26600][00000229939B8C00 49] iPhone6, [000002299AE26500][00000229939B4C40 49] iPodTouch6, [000002299ADF3000][000002299BCC2F00 49] iPhone7, [000002299ADF2F00][00000229939BCF40 49] iPodTouch7, [000002299AE25500][000002299BCC70C0 49] iPhone5S, [000002299ADF1F00][000002299BCCB240 49] iPhone6Plus, [000002299AE24D00][000002299BCCF3C0 49] iPhone6S, [000002299ADF1200][000002299BCD3540 49] iPhone6SPlus, [000002299AE25400][000002299BCD76C0 49] iPhone7Plus, [000002299ADF1E00][0000022993459800 49] iPhoneSE, [000002299AE24900][000002299BCDB940 49] iPhone8, [000002299ADF1500][000002299BCDFA80 49] iPhone8Plus, [000002299AE24200][000002299BCE7C00 49] iPhoneX, [000002299ADF1A00][000002299BCEA0C0 49] iPhoneXS, [000002299AE24500][000002299BCEE240 49] iPhoneXSMax, [000002299ADF1800][000002299BCF23C0 49] iPhoneXR, [000002299AE24600][000002299BCF6540 49] iPhone11, [000002299ADF1300][000002299BCFA6C0 49] iPhone11Pro, [000002299AE27100][000002299BCFE840 49] iPhone11ProMax, [000002299ADF3500][000002299BD029C0 49] iPhoneSE2, [000002299AE24F00][000002299BD06B40 49] iPhone12Mini, [000002299ADF0600][000002299BD0ACC0 49] iPhone12, [000002299AE24B00][000002299BD0EE40 49] iPhone12Pro, [000002299ADF0200][000002299BD12FC0 49] iPhone12ProMax, [000002299AE25F00][000002299BD17140 49] iPadPro105, [000002299ADF2700][000002299BD1B2C0 49] iPadPro129, [000002299AE27600][000002299BD1F440 49] iPadPro97, [000002299ADF0400][000002299BD235C0 49] iPadPro2_129, [000002299AE24E00][000002299BD27740 49] iPad5, [000002299ADF1100][000002299BCE3880 49] iPad6, [000002299AE24300][000002299BD2B9C0 49] iPad7, [000002299ADF1400][000002299BD41B00 49] iPad8, [000002299AE25100][000002299BD45C40 49] iPadPro11, [000002299ADF1C00][000002299BD4C100 49] iPadPro2_11, [000002299AE26400][000002299BD50280 49] iPadPro3_129, [000002299ADF0900][000002299BD54400 49] iPadPro4_129, [000002299AE27800][000002299BD58580 49] AppleTV, [000002299ADF2E00][000002299BD5C700 49] AppleTV4K, [000002299AE24800][000002299BD60880 49] TVOS, [000002299ADF3700][000002299BD64A00 49] Mac, [000002299AE59700][000002299BD68B80 49] MacClient, [000002299AEEC700][000002299BD6CD00 49] MacNoEditor, [000002299AE58800][000002299BD70E80 49] MacServer, [000002299ADF3400][000002299BD75000 49] Linux, [000002299AE59D00][000002299BD79180 49] LinuxAArch64, [000002299ADF2900][000002299BD7D300 49] LinuxNoEditor, [000002299AE59200][000002299BD81480 49] LinuxAArch64NoEditor, [000002299ADF1D00][000002299BD85600 49] LinuxClient, [000002299AE5A100][000002299BD89780 49] LinuxAArch64Client, [000002299ADF2300][000002299BD498C0 49] LinuxServer, [000002299AE5B200][000002299BD8DA00 49] LinuxAArch64Server, [000002299ADF2000][000002299BD91B40 49] Android, [000002299AE5A400][000002299BD95C80 49] Android_Low, [000002299ADF3B00][000002299BD9C140 49] Android_Mid, [000002299AE5A600][000002299BDA02C0 49] Android_High, [000002299ADF2B00][000002299BDA4440 49] Android_Default, [000002299AE5B300][000002299BDA85C0 49] Android_Adreno4xx, [000002299ADF3D00][000002299BDAC740 49] Android_Adreno5xx_Low, [000002299AE59C00][000002299BDB08C0 49] Android_Adreno5xx, [000002299ADF0300][000002299BDB4A40 49] Android_Adreno6xx, [000002299AE5B900][000002299BDB8BC0 49] Android_Adreno6xx_Vulkan, [000002299ADF0700][000002299BDBCD40 49] Android_Mali_T6xx, [000002299AE5AE00][000002299BDC0EC0 49] Android_Mali_T7xx, [000002299ADF2500][000002299BDC5040 49] Android_Mali_T8xx, [000002299AE58200][000002299BDC91C0 49] Android_Mali_G71, [000002299ADF2800][000002299BDCD340 49] Android_Mali_G72, [000002299AE59400][000002299BDD14C0 49] Android_Mali_G72_Vulkan, [000002299ADF3E00][000002299BDD5640 49] Android_Mali_G76, [000002299AE5B600][000002299BDD97C0 49] Android_Mali_G76_Vulkan, [000002299ADF3600][000002299BDDD940 49] Android_Mali_G77, [000002299AE5BB00][000002299BD99A80 49] Android_Mali_G77_Vulkan, [000002299ADF2A00][000002299BDE1BC0 49] Android_Vulkan_SM5, [000002299AE5B400][000002299BDE5D00 49] Android_PowerVR_G6xxx, [000002299ADF0D00][000002299BDEC1C0 49] Android_PowerVR_GT7xxx, [000002299AE5A300][000002299BDF0340 49] Android_PowerVR_GE8xxx, [000002299ADF0800][000002299BDF44C0 49] Android_PowerVR_GM9xxx, [000002299AE5A200][000002299BDF8640 49] Android_PowerVR_GM9xxx_Vulkan, [000002299ADF1900][000002299BDFC7C0 49] Android_TegraK1, [000002299AE58B00][000002299BE00940 49] Android_Unknown_Vulkan, [000002299AE67F00][000002299BE04AC0 49] Lumin, [000002299AE26A00][000002299BE08C40 49] Lumin_Desktop, [000002299AE66600][000002299BE0CDC0 49] HoloLens, 
+[2021.12.15-08.45.45:540][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.15-08.45.45:540][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.15-08.45.45:540][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.15-08.45.45:540][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.15-08.45.45:540][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.15-08.45.45:558][  0]LogNetVersion: BioPulse_V1 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4264076655)
+[2021.12.15-08.45.46:006][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.15-08.45.46:088][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.082020 seconds
+[2021.12.15-08.45.46:094][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.12.15-08.45.46:094][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.12.15-08.45.46:094][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.15-08.45.46:461][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.15-08.45.46:465][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.15-08.45.46:647][  0]SourceControl: Source control is disabled
+[2021.12.15-08.45.46:647][  0]SourceControl: Source control is disabled
+[2021.12.15-08.45.46:654][  0]SourceControl: Source control is disabled
+[2021.12.15-08.45.46:657][  0]SourceControl: Source control is disabled
+[2021.12.15-08.45.46:664][  0]SourceControl: Source control is disabled
+[2021.12.15-08.45.46:670][  0]LogUProjectInfo: Found projects:
+[2021.12.15-08.45.46:830][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.15-08.45.46:850][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.15-08.45.46:851][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.15-08.45.46:900][  0]LogCollectionManager: Loaded 0 collections in 0.001563 seconds
+[2021.12.15-08.45.46:923][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal_BioShock/BioPulse_V1/Saved/Collections/' took 0.00s
+[2021.12.15-08.45.46:923][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal_BioShock/BioPulse_V1/Content/Developers/artsnum/Collections/' took 0.00s
+[2021.12.15-08.45.46:923][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal_BioShock/BioPulse_V1/Content/Collections/' took 0.00s
+[2021.12.15-08.45.46:923][  0]LogOcInput: OculusInput pre-init called
+[2021.12.15-08.45.46:933][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.12.15-08.45.46:934][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.12.15-08.45.46:982][  0]LogEngine: Initializing Engine...
+[2021.12.15-08.45.46:983][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.15-08.45.46:983][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.15-08.45.46:984][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.15-08.45.47:089][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.15-08.45.47:097][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.15-08.45.47:110][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.15-08.45.47:115][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.15-08.45.47:115][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.15-08.45.47:115][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-08.45.47:115][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-08.45.47:115][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-08.45.47:115][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-08.45.47:115][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-08.45.47:115][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-08.45.47:115][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-08.45.47:115][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-08.45.47:115][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-08.45.47:115][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-08.45.47:140][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-08.45.47:140][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-08.45.47:223][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (2- Realtek High Definition Audio)
+[2021.12.15-08.45.47:229][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-08.45.47:231][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-08.45.47:231][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-08.45.47:232][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-08.45.47:232][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-08.45.47:232][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-08.45.47:233][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-08.45.47:233][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-08.45.47:233][  0]LogInit: FAudioDevice initialized.
+[2021.12.15-08.45.47:234][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.15-08.45.47:234][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.15-08.45.47:307][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/artsnum/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.15-08.45.47:307][  0]LogInit: Texture streaming: Enabled
+[2021.12.15-08.45.47:319][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.12.15-08.45.47:323][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.15-08.45.47:323][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.15-08.45.47:325][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.15-08.45.47:360][  0]LogInit: Transaction tracking system initialized
+[2021.12.15-08.45.47:380][  0]BlueprintLog: New page: Editor Load
+[2021.12.15-08.45.47:449][  0]LocalizationService: Localization service is disabled
+[2021.12.15-08.45.47:477][  0]TimingProfiler: Initialize
+[2021.12.15-08.45.47:477][  0]TimingProfiler: OnSessionChanged
+[2021.12.15-08.45.47:477][  0]LoadingProfiler: Initialize
+[2021.12.15-08.45.47:477][  0]LoadingProfiler: OnSessionChanged
+[2021.12.15-08.45.47:477][  0]NetworkingProfiler: Initialize
+[2021.12.15-08.45.47:477][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.15-08.45.47:477][  0]MemoryProfiler: Initialize
+[2021.12.15-08.45.47:477][  0]MemoryProfiler: OnSessionChanged
+[2021.12.15-08.45.47:631][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.15-08.45.47:631][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.15-08.45.47:776][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal_BioShock/BioPulse_V1/Content/' took 0.07s
+[2021.12.15-08.45.47:961][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.15-08.45.47:964][  0]SourceControl: Source control is disabled
+[2021.12.15-08.45.47:964][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.059
+[2021.12.15-08.45.47:964][  0]Cmd: MAP LOAD FILE="F:/Unreal_BioShock/BioPulse_V1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-08.45.47:964][  0]LightingResults: New page: Lighting Build
+[2021.12.15-08.45.47:965][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-08.45.47:965][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-08.45.47:965][  0]MapCheck: New page: Map Check
+[2021.12.15-08.45.47:965][  0]LightingResults: New page: Lighting Build
+[2021.12.15-08.45.47:975][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.12.15-08.45.49:145][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.12.15-08.45.49:145][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2021.12.15-08.45.49:145][  0]LogStaticMesh: Building static mesh Salle_depart_zone_arimage_HB...
+[2021.12.15-08.45.49:148][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Mesh/Salle_entree/Zone_arimage/Salle_depart_zone_arimage_HB.Salle_depart_zone_arimage_HB
+[2021.12.15-08.45.49:150][  0]LogStaticMesh: Building static mesh Salle_depart_zone_arimage_low...
+[2021.12.15-08.45.49:153][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Mesh/Salle_entree/Zone_arimage/Salle_depart_zone_arimage_low.Salle_depart_zone_arimage_low
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2021.12.15-08.45.53:710][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.12.15-08.45.54:002][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.12.15-08.45.54:003][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.15-08.45.54:017][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-08.45.54:027][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.12.15-08.45.54:030][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-08.45.54:030][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,1ms to complete.
+[2021.12.15-08.45.54:030][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 6.100
+[2021.12.15-08.45.54:032][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.161
+[2021.12.15-08.45.54:201][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-08.45.54:208][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-08.45.54:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-08.45.54:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-08.45.54:255][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0096 seconds. Added 3601 classes and 859 folders.
+[2021.12.15-08.45.54:262][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.15-08.45.54:273][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.15-08.45.54:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-08.45.54:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.12.15-08.45.54:283][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.15-08.45.54:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.15-08.45.54:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.12.15-08.45.54:290][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.15-08.45.54:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.15-08.45.54:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.12.15-08.45.54:296][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-08.45.54:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-08.45.54:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.12.15-08.45.54:302][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.15-08.45.54:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.15-08.45.54:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.12.15-08.45.54:307][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.15-08.45.54:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.15-08.45.54:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.15-08.45.54:317][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.15-08.45.54:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.15-08.45.54:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.15-08.45.54:330][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.15-08.45.54:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.15-08.45.54:330][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.12.15-08.45.54:342][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.15-08.45.54:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.15-08.45.54:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.12.15-08.45.54:347][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.15-08.45.54:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.15-08.45.54:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.12.15-08.45.54:353][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.15-08.45.54:353][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.15-08.45.54:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.12.15-08.45.54:360][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.15-08.45.54:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.15-08.45.54:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.12.15-08.45.54:366][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-08.45.54:366][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:366][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-08.45.54:366][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.12.15-08.45.54:372][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.15-08.45.54:372][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.15-08.45.54:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.12.15-08.45.54:378][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.15-08.45.54:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.15-08.45.54:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.12.15-08.45.54:384][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.15-08.45.54:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-08.45.54:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.12.15-08.45.54:390][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.15-08.45.54:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.15-08.45.54:390][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.12.15-08.45.54:396][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.15-08.45.54:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.15-08.45.54:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.12.15-08.45.54:402][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-08.45.54:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-08.45.54:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.12.15-08.45.54:410][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-08.45.54:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-08.45.54:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.12.15-08.45.54:416][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.15-08.45.54:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-08.45.54:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.12.15-08.45.54:422][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.15-08.45.54:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.15-08.45.54:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.12.15-08.45.54:427][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.15-08.45.54:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.15-08.45.54:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.12.15-08.45.54:433][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.15-08.45.54:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.15-08.45.54:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.12.15-08.45.54:439][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-08.45.54:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-08.45.54:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2021.12.15-08.45.54:445][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.15-08.45.54:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-08.45.54:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.15-08.45.54:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2021.12.15-08.45.54:578][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.15-08.45.54:582][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.12.15-08.45.54:754][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.15-08.45.54:755][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.15-08.45.54:767][  0]LogSlate: Took 0.005549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.15-08.45.54:934][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.12.15-08.45.55:382][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.15-08.45.55:382][  0]LogLoad: (Engine Initialization) Total time: 13.52 seconds
+[2021.12.15-08.45.55:382][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.15-08.45.55:382][  0]LogInit: First time updating LLM stats...
+[2021.12.15-08.45.55:419][  0]LogAssetRegistry: Asset discovery search completed in 10.3768 seconds
+[2021.12.15-08.45.55:420][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.12.15-08.45.55:421][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.15-08.45.55:573][  3]LogSlate: Took 0.006161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.15-08.47.09:226][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.15-08.47.11:066][946]Cmd: DELETE
+[2021.12.15-08.47.11:067][946]Cmd: ACTOR DELETE
+[2021.12.15-08.47.11:071][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.15-08.47.11:078][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.12.15-08.47.11:079][946]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.12.15-08.47.17:248][629]Cmd: TRANSACTION UNDO
+[2021.12.15-08.47.17:248][629]LogEditorTransaction: Undo Delete Actors
+[2021.12.15-08.47.17:289][629]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.15-08.47.50:582][712]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\biopulse\3D\Asset\Salle_depart\Bloc_central\Export\Salle_depart_bloc_central_low.fbx)
+[2021.12.15-08.47.50:609][712]LogFbx: Loading FBX Scene from F:\biopulse\3D\Asset\Salle_depart\Bloc_central\Export\Salle_depart_bloc_central_low.fbx
+[2021.12.15-08.47.50:621][712]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.15-08.47.52:996][712]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.15-08.47.53:016][712]LogFbx: Display: Triangulating static mesh plateforme
+[2021.12.15-08.47.53:026][712]LogFbx: Display: Triangulating mesh UCX_plateforme for collision model
+[2021.12.15-08.47.53:032][712]LogStaticMesh: Building static mesh Salle_depart_bloc_central_low...
+[2021.12.15-08.47.53:037][712]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Mesh/Salle_entree/Salle_depart_bloc_central_low.Salle_depart_bloc_central_low
+[2021.12.15-08.47.53:041][712]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.15-08.47.53:156][712]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\biopulse\3D\Asset\Salle_depart\Bloc_central\Export\Salle_depart_bloc_central_low_HB.fbx)
+[2021.12.15-08.47.53:181][712]LogFbx: Loading FBX Scene from F:\biopulse\3D\Asset\Salle_depart\Bloc_central\Export\Salle_depart_bloc_central_low_HB.fbx
+[2021.12.15-08.47.53:187][712]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.15-08.47.54:131][712]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.15-08.47.54:144][712]LogFbx: Display: Triangulating static mesh hit_plateforme
+[2021.12.15-08.47.54:146][712]LogStaticMesh: Building static mesh Salle_depart_bloc_central_low_HB...
+[2021.12.15-08.47.54:149][712]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Mesh/Salle_entree/Salle_depart_bloc_central_low_HB.Salle_depart_bloc_central_low_HB
+[2021.12.15-08.47.54:150][712]LogStaticMesh: Warning: Salle_depart_bloc_central_low_HB has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.12.15-08.47.54:150][712]LogStaticMesh: Warning: Salle_depart_bloc_central_low_HB has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.12.15-08.47.54:153][712]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.15-08.47.54:153][712]FBXImport: Warning: Salle_depart_bloc_central_low_HB has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.12.15-08.47.54:153][712]FBXImport: Warning: Salle_depart_bloc_central_low_HB has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.12.15-08.47.54:217][712]LogSlate: Took 0.007513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.15-08.47.57:238][987]LogSlate: Window 'Message Log' being destroyed
+[2021.12.15-08.47.57:243][987]LogSlate: Window 'Message Log' being destroyed
+[2021.12.15-08.47.59:661][143]LogSlate: Took 0.013656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.12.15-08.48.04:378][463]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.15-08.48.04:399][463]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.15-08.48.20:707][243]LogContentBrowser: Attempting asset rename: NewFolder -> Bloc_central
+[2021.12.15-08.48.20:708][243]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.15-08.48.29:228][862]LogMetaData: Removing '/Game/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low_HB.Salle_depart_bloc_central_low_HB' ref from Metadata '/Game/Assets/Mesh/Salle_entree/Salle_depart_bloc_central_low_HB.PackageMetaData'
+[2021.12.15-08.48.29:229][862]LogMetaData: Removing '/Game/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low.Salle_depart_bloc_central_low' ref from Metadata '/Game/Assets/Mesh/Salle_entree/Salle_depart_bloc_central_low.PackageMetaData'
+[2021.12.15-08.48.29:385][862]LogSavePackage: Moving 'F:/Unreal_BioShock/BioPulse_V1/Saved/Salle_depart_bloc_central_low_HB7F62E10C4DD7E2009F98B09AB1000148.tmp' to 'F:/Unreal_BioShock/BioPulse_V1/Content/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low_HB.uasset'
+[2021.12.15-08.48.29:413][862]LogSavePackage: Moving 'F:/Unreal_BioShock/BioPulse_V1/Saved/Salle_depart_bloc_central_low229D999A440236CFE6C604AE5E6FC652.tmp' to 'F:/Unreal_BioShock/BioPulse_V1/Content/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low.uasset'
+[2021.12.15-08.48.29:483][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.15-08.48.29:490][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.12.15-08.48.29:506][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.15-08.48.29:512][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.12.15-08.48.29:542][862]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.15-08.48.29:542][862]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low_HB.Salle_depart_bloc_central_low_HB
+[2021.12.15-08.48.29:543][862]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low.Salle_depart_bloc_central_low
+[2021.12.15-08.48.38:962][453]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low.Salle_depart_bloc_central_low
+[2021.12.15-08.48.39:712][453]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.12.15-08.48.39:712][453]LogSlate: Took 0.005965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.15-08.49.49:635][329]LogSlate: Window 'Salle_depart_bloc_central_low' being destroyed
+[2021.12.15-08.49.49:641][329]LogSlate: Window 'Salle_depart_bloc_central_low' being destroyed
+[2021.12.15-08.49.49:997][329]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-08.49.49:997][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-08.49.53:781][593]LogActorFactory: Actor Factory created Salle_depart_bloc_central_low
+[2021.12.15-08.49.58:696][139]LogActorFactory: Actor Factory created Salle_depart_bloc_central_low
+[2021.12.15-08.50.25:931][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low2)
+[2021.12.15-08.50.29:707][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low3)
+[2021.12.15-08.50.42:547][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low2)
+[2021.12.15-08.50.47:579][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_bloc_central_low)
+[2021.12.15-08.52.13:991][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low2)
+[2021.12.15-08.52.20:249][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low3)
+[2021.12.15-08.52.40:087][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low2)
+[2021.12.15-08.52.52:646][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low3)
+[2021.12.15-08.53.28:880][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_bloc_central_low)
+[2021.12.15-08.53.58:510][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low2)
+[2021.12.15-08.54.15:290][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low3)
+[2021.12.15-08.54.16:104][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_bloc_central_low)
+[2021.12.15-08.54.19:342][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low2)
+[2021.12.15-08.54.32:699][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_bloc_central_low)
+[2021.12.15-08.55.12:417][728]Cmd: TRANSACTION UNDO
+[2021.12.15-08.55.12:417][728]LogEditorTransaction: Undo Move Actors
+[2021.12.15-08.55.12:950][745]Cmd: TRANSACTION UNDO
+[2021.12.15-08.55.12:950][745]LogEditorTransaction: Undo Move Actors
+[2021.12.15-08.55.15:118][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low3)
+[2021.12.15-08.55.15:640][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_bloc_central_low)
+[2021.12.15-08.55.18:968][275]Cmd: TRANSACTION UNDO
+[2021.12.15-08.55.18:968][275]LogEditorTransaction: Undo Move Actors
+[2021.12.15-08.55.20:317][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.15-08.55.27:924][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_bloc_central_low)
+[2021.12.15-08.55.40:801][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.15-08.56.30:321][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.15-08.56.30:548][196]LogSavePackage: Moving 'F:/Unreal_BioShock/BioPulse_V1/Saved/FirstPersonExampleMap_Auto160CC047A44575B23560D2AB058F1ED11.tmp' to 'F:/Unreal_BioShock/BioPulse_V1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.12.15-08.56.30:550][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.237
+[2021.12.15-08.56.30:551][196]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.237
+[2021.12.15-08.56.30:551][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low] ([1] browsable assets)...
+[2021.12.15-08.56.30:566][196]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low.Salle_depart_bloc_central_low]
+[2021.12.15-08.56.30:566][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low]
+[2021.12.15-08.56.30:579][196]LogSavePackage: Moving 'F:/Unreal_BioShock/BioPulse_V1/Saved/Salle_depart_bloc_central_low_AuE732987D41966C21B6C03AA890FD6E87.tmp' to 'F:/Unreal_BioShock/BioPulse_V1/Saved/Autosaves/Game/Assets/Mesh/Salle_entree/Bloc_central/Salle_depart_bloc_central_low_Auto1.uasset'
+[2021.12.15-08.56.30:580][196]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.12.15-08.57.11:541][527]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.12.15-08.57.36:333][613]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\biopulse\3D\Asset\Salle_depart\Paserelle\Paserelle\Export\Salle_depart_paserelle_HB.fbx)
+[2021.12.15-08.57.36:342][613]LogFbx: Loading FBX Scene from F:\biopulse\3D\Asset\Salle_depart\Paserelle\Paserelle\Export\Salle_depart_paserelle_HB.fbx
+[2021.12.15-08.57.36:347][613]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.15-08.57.37:784][613]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.15-08.57.37:797][613]LogFbx: Display: Triangulating static mesh passerelle
+[2021.12.15-08.57.37:800][613]LogStaticMesh: Building static mesh Salle_depart_paserelle_HB...
+[2021.12.15-08.57.37:801][613]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Mesh/Salle_entree/Salle_depart_paserelle_HB.Salle_depart_paserelle_HB
+[2021.12.15-08.57.37:804][613]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.15-08.57.37:910][613]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\biopulse\3D\Asset\Salle_depart\Paserelle\Paserelle\Export\Salle_depart_paserelle_low.fbx)
+[2021.12.15-08.57.37:942][613]LogFbx: Loading FBX Scene from F:\biopulse\3D\Asset\Salle_depart\Paserelle\Paserelle\Export\Salle_depart_paserelle_low.fbx
+[2021.12.15-08.57.37:948][613]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.15-08.57.37:949][613]LogFbx: Display: Triangulating static mesh passerelle
+[2021.12.15-08.57.37:952][613]LogStaticMesh: Building static mesh Salle_depart_paserelle_low...
+[2021.12.15-08.57.37:953][613]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Mesh/Salle_entree/Salle_depart_paserelle_low.Salle_depart_paserelle_low
+[2021.12.15-08.57.37:955][613]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.15-08.57.39:352][723]LogSlate: Window 'Message Log' being destroyed
+[2021.12.15-08.57.39:359][723]LogSlate: Window 'Message Log' being destroyed
+[2021.12.15-08.57.45:156][248]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.15-08.57.45:169][248]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.15-08.57.49:946][673]LogContentBrowser: Attempting asset rename: NewFolder -> Passerelle
+[2021.12.15-08.57.49:965][673]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.15-08.57.57:602][254]LogMetaData: Removing '/Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_low.Salle_depart_paserelle_low' ref from Metadata '/Game/Assets/Mesh/Salle_entree/Salle_depart_paserelle_low.PackageMetaData'
+[2021.12.15-08.57.57:604][254]LogMetaData: Removing '/Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_HB.Salle_depart_paserelle_HB' ref from Metadata '/Game/Assets/Mesh/Salle_entree/Salle_depart_paserelle_HB.PackageMetaData'
+[2021.12.15-08.57.57:661][254]LogSavePackage: Moving 'F:/Unreal_BioShock/BioPulse_V1/Saved/Salle_depart_paserelle_low8B90AC2B45863B61E2F1158BE5AFCEC8.tmp' to 'F:/Unreal_BioShock/BioPulse_V1/Content/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_low.uasset'
+[2021.12.15-08.57.57:790][254]LogSavePackage: Moving 'F:/Unreal_BioShock/BioPulse_V1/Saved/Salle_depart_paserelle_HB929DFB2A4F1DC7F838D9CF8031109835.tmp' to 'F:/Unreal_BioShock/BioPulse_V1/Content/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_HB.uasset'
+[2021.12.15-08.57.57:859][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.12.15-08.57.57:867][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.12.15-08.57.57:880][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.15-08.57.57:885][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.12.15-08.57.57:918][254]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.15-08.57.57:918][254]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_low.Salle_depart_paserelle_low
+[2021.12.15-08.57.57:918][254]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_HB.Salle_depart_paserelle_HB
+[2021.12.15-08.58.01:746][518]LogActorFactory: Actor Factory created Salle_depart_paserelle_HB
+[2021.12.15-08.58.04:438][780]LogActorFactory: Actor Factory created Salle_depart_paserelle_HB
+[2021.12.15-08.58.07:883][ 92]Cmd: TRANSACTION UNDO
+[2021.12.15-08.58.07:883][ 92]LogEditorTransaction: Undo Scale Actors
+[2021.12.15-08.58.09:654][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low3)
+[2021.12.15-08.58.15:395][735]Cmd: TRANSACTION UNDO
+[2021.12.15-08.58.15:395][735]LogEditorTransaction: Undo Move Actors
+[2021.12.15-08.58.16:516][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_paserelle_HB)
+[2021.12.15-08.59.22:731][100]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.12.15-08.59.24:367][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.15-08.59.44:894][881]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_HB.Salle_depart_paserelle_HB
+[2021.12.15-08.59.47:786][993]LogSlate: Window 'Salle_depart_paserelle_HB' being destroyed
+[2021.12.15-08.59.47:793][993]LogSlate: Window 'Salle_depart_paserelle_HB' being destroyed
+[2021.12.15-08.59.47:798][993]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-08.59.47:798][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-08.59.49:419][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_paserelle_HB)
+[2021.12.15-08.59.52:704][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_paserelle_HB)
+[2021.12.15-08.59.54:832][564]Cmd: DELETE
+[2021.12.15-08.59.54:832][564]Cmd: ACTOR DELETE
+[2021.12.15-08.59.54:834][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.15-08.59.54:856][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.15-08.59.54:857][564]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.12.15-08.59.56:804][714]LogActorFactory: Actor Factory created Salle_depart_paserelle_low
+[2021.12.15-08.59.58:895][938]LogActorFactory: Actor Factory created Salle_depart_paserelle_low
+[2021.12.15-09.00.23:340][130]Cmd: TRANSACTION UNDO
+[2021.12.15-09.00.23:340][130]LogEditorTransaction: Undo Move Actors
+[2021.12.15-09.00.31:236][632]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_low.Salle_depart_paserelle_low
+[2021.12.15-09.00.41:301][198]LogSlate: Window 'Salle_depart_paserelle_low' being destroyed
+[2021.12.15-09.00.41:308][198]LogSlate: Window 'Salle_depart_paserelle_low' being destroyed
+[2021.12.15-09.00.41:314][198]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-09.00.41:314][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.00.45:919][604]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.12.15-09.00.48:650][786]Cmd: TRANSACTION UNDO
+[2021.12.15-09.00.48:650][786]LogEditorTransaction: Undo Move Actors
+[2021.12.15-09.01.25:424][377]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-09.01.25:758][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-09.01.25:761][377]PIE: New page: PIE session: FirstPersonExampleMap (15 déc. 2021 à 11:01:25)
+[2021.12.15-09.01.25:762][377]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.15-09.01.25:763][377]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.15-09.01.25:763][377]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.01.25:773][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009331s)
+[2021.12.15-09.01.25:774][377]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.15-09.01.25:775][377]LogPlayLevel: PIE: World Init took: (0.001824s)
+[2021.12.15-09.01.25:775][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011382s)
+[2021.12.15-09.01.25:810][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.12.15-09.01.25:814][377]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.15-09.01.25:814][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-09.01.25:814][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-09.01.25:814][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-09.01.25:814][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-09.01.25:814][377]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-09.01.25:814][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-09.01.25:814][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-09.01.25:814][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-09.01.25:814][377]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-09.01.25:814][377]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-09.01.25:822][377]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-09.01.25:822][377]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-09.01.25:845][377]LogAudioMixer: Display: Using Audio Device Haut-parleurs (2- Realtek High Definition Audio)
+[2021.12.15-09.01.25:846][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-09.01.25:846][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-09.01.25:846][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-09.01.25:846][377]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-09.01.25:846][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-09.01.25:846][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-09.01.25:861][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-09.01.25:861][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-09.01.25:861][377]LogInit: FAudioDevice initialized.
+[2021.12.15-09.01.25:861][377]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.12.15-09.01.25:870][377]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.15-09.01.25:872][377]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.12.15-10.01.25
+[2021.12.15-09.01.25:872][377]LogWorld: Bringing up level for play took: 0.001391
+[2021.12.15-09.01.25:873][377]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.12.15-09.01.25:885][377]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.12.15-09.01.25:886][377]PIE: Server logged in
+[2021.12.15-09.01.25:888][377]PIE: Play in editor total start time 0,131 seconds.
+[2021.12.15-09.01.50:823][ 20]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3.323 Y=-874.756 Z=679.143] for [FirstPersonProjectile_C]
+[2021.12.15-09.01.51:139][ 53]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3.331 Y=-874.749 Z=679.143] for [FirstPersonProjectile_C]
+[2021.12.15-09.02.10:017][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.02.10:017][ 93]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.02.10:017][ 93]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-09.02.10:017][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.02.10:023][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-09.02.10:060][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.02.10:066][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-09.02.10:066][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.02.10:067][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.02.10:085][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.02.10:088][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.12.15-09.02.10:463][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.12.15-09.02.11:950][191]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-09.02.11:958][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-09.02.11:958][191]PIE: New page: PIE session: FirstPersonExampleMap (15 déc. 2021 à 11:02:11)
+[2021.12.15-09.02.11:958][191]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.02.11:967][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009065s)
+[2021.12.15-09.02.11:968][191]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.15-09.02.11:968][191]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2021.12.15-09.02.11:968][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010515s)
+[2021.12.15-09.02.11:974][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.15-09.02.11:975][191]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.15-09.02.11:975][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-09.02.11:975][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-09.02.11:975][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-09.02.11:975][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-09.02.11:975][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-09.02.11:975][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-09.02.11:975][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-09.02.11:975][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-09.02.11:976][191]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-09.02.11:976][191]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-09.02.11:983][191]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-09.02.11:983][191]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-09.02.12:007][191]LogAudioMixer: Display: Using Audio Device Haut-parleurs (2- Realtek High Definition Audio)
+[2021.12.15-09.02.12:007][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-09.02.12:007][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-09.02.12:007][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-09.02.12:008][191]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-09.02.12:008][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-09.02.12:008][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-09.02.12:020][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-09.02.12:020][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-09.02.12:020][191]LogInit: FAudioDevice initialized.
+[2021.12.15-09.02.12:020][191]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2021.12.15-09.02.12:031][191]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.15-09.02.12:034][191]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.12.15-10.02.12
+[2021.12.15-09.02.12:034][191]LogWorld: Bringing up level for play took: 0.001349
+[2021.12.15-09.02.12:034][191]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.12.15-09.02.12:037][191]PIE: Server logged in
+[2021.12.15-09.02.12:037][191]PIE: Play in editor total start time 0,08 seconds.
+[2021.12.15-09.02.19:127][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.02.19:127][986]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.02.19:127][986]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-09.02.19:127][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.02.19:134][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-09.02.19:170][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.02.19:175][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-09.02.19:175][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.02.19:176][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.02.19:193][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.02.19:196][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.15-09.02.19:349][987]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.12.15-09.02.21:742][156]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-09.02.21:749][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-09.02.21:749][156]PIE: New page: PIE session: FirstPersonExampleMap (15 déc. 2021 à 11:02:21)
+[2021.12.15-09.02.21:749][156]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.02.21:758][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008961s)
+[2021.12.15-09.02.21:759][156]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.15-09.02.21:760][156]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2021.12.15-09.02.21:760][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010407s)
+[2021.12.15-09.02.21:767][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.15-09.02.21:768][156]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.15-09.02.21:768][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-09.02.21:768][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-09.02.21:768][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-09.02.21:768][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-09.02.21:768][156]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-09.02.21:768][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-09.02.21:768][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-09.02.21:768][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-09.02.21:768][156]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-09.02.21:768][156]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-09.02.21:777][156]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-09.02.21:778][156]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-09.02.21:799][156]LogAudioMixer: Display: Using Audio Device Haut-parleurs (2- Realtek High Definition Audio)
+[2021.12.15-09.02.21:799][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-09.02.21:799][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-09.02.21:799][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-09.02.21:800][156]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-09.02.21:800][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-09.02.21:800][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-09.02.21:813][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-09.02.21:813][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-09.02.21:813][156]LogInit: FAudioDevice initialized.
+[2021.12.15-09.02.21:813][156]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2021.12.15-09.02.21:826][156]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.15-09.02.21:828][156]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.12.15-10.02.21
+[2021.12.15-09.02.21:828][156]LogWorld: Bringing up level for play took: 0.001378
+[2021.12.15-09.02.21:828][156]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.12.15-09.02.21:830][156]PIE: Server logged in
+[2021.12.15-09.02.21:831][156]PIE: Play in editor total start time 0,083 seconds.
+[2021.12.15-09.03.01:766][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.03.01:766][397]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.03.01:766][397]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-09.03.01:766][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.03.01:773][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-09.03.01:809][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.03.01:815][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.03.01:815][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.03.01:817][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.03.01:836][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.15-09.03.02:202][398]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.12.15-09.05.49:960][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low3)
+[2021.12.15-09.05.55:923][429]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Salle_depart_zone_arimage_low3)
+[2021.12.15-09.06.06:420][181]Cmd: ACTOR MIRROR Y=-1
+[2021.12.15-09.06.48:377][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_paserelle_low)
+[2021.12.15-09.07.12:732][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_bloc_central_low)
+[2021.12.15-09.07.15:780][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_zone_arimage_low2)
+[2021.12.15-09.07.35:217][216]Cmd: TRANSACTION UNDO
+[2021.12.15-09.07.35:217][216]LogEditorTransaction: Undo Move Actors
+[2021.12.15-09.07.36:590][315]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.12.15-09.08.32:807][ 33]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\biopulse\3D\Asset\Grande_salle\Mur_coter\export\Grande_salle_mur_HB.fbx)
+[2021.12.15-09.08.32:816][ 33]LogFbx: Loading FBX Scene from F:\biopulse\3D\Asset\Grande_salle\Mur_coter\export\Grande_salle_mur_HB.fbx
+[2021.12.15-09.08.32:822][ 33]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.15-09.08.34:234][ 33]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.15-09.08.34:248][ 33]LogFbx: Display: Triangulating static mesh gkh_v_polySurface1
+[2021.12.15-09.08.34:250][ 33]LogStaticMesh: Building static mesh Grande_salle_mur_HB...
+[2021.12.15-09.08.34:253][ 33]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Mesh/Salle_entree/Grande_salle_mur_HB.Grande_salle_mur_HB
+[2021.12.15-09.08.34:257][ 33]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.15-09.08.34:379][ 33]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\biopulse\3D\Asset\Grande_salle\Mur_coter\export\Grande_salle_mur_low.fbx)
+[2021.12.15-09.08.34:393][ 33]LogFbx: Loading FBX Scene from F:\biopulse\3D\Asset\Grande_salle\Mur_coter\export\Grande_salle_mur_low.fbx
+[2021.12.15-09.08.34:400][ 33]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.15-09.08.34:400][ 33]LogFbx: Display: Triangulating static mesh mur_coter_fenetre1
+[2021.12.15-09.08.34:414][ 33]LogStaticMesh: Building static mesh Grande_salle_mur_low...
+[2021.12.15-09.08.34:423][ 33]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Mesh/Salle_entree/Grande_salle_mur_low.Grande_salle_mur_low
+[2021.12.15-09.08.34:427][ 33]FBXImport: FBX File Loading: Found name clash, node 'mur_coter_fenetre' was renamed to 'mur_coter_fenetre1' 
+[2021.12.15-09.08.34:427][ 33]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.15-09.08.35:455][113]LogSlate: Window 'Message Log' being destroyed
+[2021.12.15-09.08.35:479][113]LogSlate: Window 'Message Log' being destroyed
+[2021.12.15-09.08.40:616][361]LogActorFactory: Actor Factory created Grande_salle_mur_low
+[2021.12.15-09.08.42:721][539]LogActorFactory: Actor Factory created Grande_salle_mur_low
+[2021.12.15-09.09.12:026][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Grande_salle_mur_low)
+[2021.12.15-09.09.18:473][902]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.12.15-09.09.21:681][126]Cmd: TRANSACTION UNDO
+[2021.12.15-09.09.21:681][126]LogEditorTransaction: Undo Move Actors
+[2021.12.15-09.09.22:679][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Grande_salle_mur_low)
+[2021.12.15-09.09.23:913][290]Cmd: DELETE
+[2021.12.15-09.09.23:913][290]Cmd: ACTOR DELETE
+[2021.12.15-09.09.23:915][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.15-09.09.23:935][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.12.15-09.09.23:941][290]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.12.15-09.09.29:471][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.12.15-09.09.30:552][714]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.15-09.09.30:564][714]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Assets/Mesh/Salle_entree/Grande_salle_mur_low.Grande_salle_mur_low
+	Asset Name: /Game/Assets/Mesh/Salle_entree/Grande_salle_mur_HB.Grande_salle_mur_HB
+[2021.12.15-09.09.32:716][714]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.12.15-09.09.32:819][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.15-09.09.56:421][144]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.12.15-09.10.06:768][688]LogActorFactory: Actor Factory created Cube
+[2021.12.15-09.10.08:170][783]LogActorFactory: Actor Factory created Cube
+[2021.12.15-09.10.27:049][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salle_depart_bloc_central_low)
+[2021.12.15-09.10.28:355][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.15-09.10.43:360][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.15-09.10.44:555][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.15-09.10.45:487][185]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.12.15-09.10.46:836][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.15-09.11.07:163][143]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.12.15-09.11.08:087][200]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-09.11.08:096][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-09.11.08:096][200]PIE: New page: PIE session: FirstPersonExampleMap (15 déc. 2021 à 11:11:08)
+[2021.12.15-09.11.08:096][200]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.11.08:105][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009292s)
+[2021.12.15-09.11.08:107][200]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.15-09.11.08:107][200]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2021.12.15-09.11.08:107][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010895s)
+[2021.12.15-09.11.08:129][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.15-09.11.08:134][200]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.15-09.11.08:134][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-09.11.08:134][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-09.11.08:134][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-09.11.08:134][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-09.11.08:134][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-09.11.08:134][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-09.11.08:134][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-09.11.08:134][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-09.11.08:134][200]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-09.11.08:134][200]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-09.11.08:142][200]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-09.11.08:142][200]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-09.11.08:163][200]LogAudioMixer: Display: Using Audio Device Haut-parleurs (2- Realtek High Definition Audio)
+[2021.12.15-09.11.08:164][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-09.11.08:164][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-09.11.08:164][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-09.11.08:164][200]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-09.11.08:164][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-09.11.08:164][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-09.11.08:178][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-09.11.08:178][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-09.11.08:178][200]LogInit: FAudioDevice initialized.
+[2021.12.15-09.11.08:178][200]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2021.12.15-09.11.08:186][200]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.15-09.11.08:187][200]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.12.15-10.11.08
+[2021.12.15-09.11.08:187][200]LogWorld: Bringing up level for play took: 0.001349
+[2021.12.15-09.11.08:187][200]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.12.15-09.11.08:190][200]PIE: Server logged in
+[2021.12.15-09.11.08:190][200]PIE: Play in editor total start time 0,096 seconds.
+[2021.12.15-09.13.31:606][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.13.31:606][838]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.13.31:606][838]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-09.13.31:606][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.13.31:620][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-09.13.31:658][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.13.31:664][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-09.13.31:664][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.13.31:665][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.13.31:683][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.13.31:685][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.12.15-09.13.32:066][839]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.12.15-09.13.39:552][358]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.12.15-09.13.40:169][358]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.12.15-09.13.41:162][358]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.15-09.14.52:435][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.12.15-09.14.52:766][171]LogSavePackage: Moving 'F:/Unreal_BioShock/BioPulse_V1/Saved/FirstPersonExampleMap_Auto2C1B778104CCE879D7B41AE990276185F.tmp' to 'F:/Unreal_BioShock/BioPulse_V1/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2021.12.15-09.14.52:769][171]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.358
+[2021.12.15-09.14.52:769][171]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.358
+[2021.12.15-09.14.52:769][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2021.12.15-09.14.52:789][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.12.15-09.14.52:789][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2021.12.15-09.14.52:944][171]LogSavePackage: Moving 'F:/Unreal_BioShock/BioPulse_V1/Saved/FirstPersonCharacter_Auto2BC31E87941C43DFA74E9CEB2AB60B0E4.tmp' to 'F:/Unreal_BioShock/BioPulse_V1/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2021.12.15-09.14.52:946][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_low] ([1] browsable assets)...
+[2021.12.15-09.14.52:961][171]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_low.Salle_depart_paserelle_low]
+[2021.12.15-09.14.52:961][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_low]
+[2021.12.15-09.14.52:980][171]LogSavePackage: Moving 'F:/Unreal_BioShock/BioPulse_V1/Saved/Salle_depart_paserelle_low_Auto23C190C0D40AECC13F61BB49B33A3A60A.tmp' to 'F:/Unreal_BioShock/BioPulse_V1/Saved/Autosaves/Game/Assets/Mesh/Salle_entree/Passerelle/Salle_depart_paserelle_low_Auto2.uasset'
+[2021.12.15-09.14.52:981][171]LogFileHelpers: Auto-saving content packages took 0.212
+[2021.12.15-09.15.10:720][152]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-09.15.10:727][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-09.15.10:727][152]PIE: New page: PIE session: FirstPersonExampleMap (15 déc. 2021 à 11:15:10)
+[2021.12.15-09.15.10:727][152]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.15.10:738][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010486s)
+[2021.12.15-09.15.10:739][152]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.15-09.15.10:739][152]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2021.12.15-09.15.10:739][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012022s)
+[2021.12.15-09.15.10:766][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.12.15-09.15.10:767][152]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.12.15-09.15.10:767][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-09.15.10:767][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-09.15.10:767][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-09.15.10:767][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-09.15.10:767][152]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-09.15.10:767][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-09.15.10:767][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-09.15.10:767][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-09.15.10:767][152]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-09.15.10:767][152]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-09.15.10:774][152]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-09.15.10:774][152]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-09.15.10:796][152]LogAudioMixer: Display: Using Audio Device Haut-parleurs (2- Realtek High Definition Audio)
+[2021.12.15-09.15.10:796][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-09.15.10:796][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-09.15.10:796][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-09.15.10:797][152]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-09.15.10:797][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-09.15.10:797][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-09.15.10:811][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-09.15.10:811][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-09.15.10:811][152]LogInit: FAudioDevice initialized.
+[2021.12.15-09.15.10:811][152]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2021.12.15-09.15.10:825][152]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.15-09.15.10:827][152]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.12.15-10.15.10
+[2021.12.15-09.15.10:827][152]LogWorld: Bringing up level for play took: 0.001387
+[2021.12.15-09.15.10:827][152]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.12.15-09.15.10:830][152]PIE: Server logged in
+[2021.12.15-09.15.10:831][152]PIE: Play in editor total start time 0,104 seconds.
+[2021.12.15-09.15.32:600][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.15.32:600][478]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.12.15-09.15.32:600][478]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-09.15.32:600][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.15.32:621][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-09.15.32:659][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.15.32:679][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-09.15.32:679][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.15.32:680][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-09.15.32:701][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.12.15-09.15.33:102][479]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.12.15-09.15.35:300][584]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.12.15-09.15.35:438][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.12.15-09.15.49:185][271]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.12.15-09.15.49:329][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.12.15-09.15.55:738][589]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.12.15-09.15.55:877][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.12.15-09.16.00:804][829]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.15-09.16.02:174][891]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.12.15-09.16.02:180][891]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.12.15-09.16.02:187][891]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-09.16.02:187][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-09.16.09:781][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.12.15-09.16.43:022][ 27]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.066 Y=0.066 Z=0.000
+[2021.12.15-09.16.43:023][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_9:PersistentLevel.FirstPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.066 Y=0.066 Z=0.000
+[2021.12.15-09.16.43:037][ 28]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
