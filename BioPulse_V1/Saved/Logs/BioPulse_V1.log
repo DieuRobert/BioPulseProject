@@ -2578,3 +2578,699 @@ Please see Output Log for details.
 [2022.02.02-22.30.21:042][ 22]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.02-22.30.21:042][ 22]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_meshs/LVL_Bureau_meshs_BuiltData.LVL_Bureau_meshs_BuiltData
 [2022.02.02-22.30.21:042][ 22]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_meshs/LVL_Bureau_meshs.LVL_Bureau_meshs
+[2022.02.02-22.34.02:842][970]LogEditorViewport: Clicking Background
+[2022.02.02-22.40.20:931][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.02.02-22.40.20:965][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_main_Auto51D2EEB914DC7B62441FA2296133CF5F0.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/LVL_main_Auto5.umap'
+[2022.02.02-22.40.20:977][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_meshs_Auto520A2059945BEA0671B2FCD83FBA72AAF.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_meshs/LVL_Couloir_meshs_Auto5.umap'
+[2022.02.02-22.40.20:984][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_meshs_Auto580015FD14F45540684649580F4A38773.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_meshs/LVL_Depart_meshs_Auto5.umap'
+[2022.02.02-22.40.20:990][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_meshs_Auto51A91874742AF141435E509B60D0445D5.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_meshs/LVL_Finale_meshs_Auto5.umap'
+[2022.02.02-22.40.20:998][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_meshs_Auto57C0249EC4C5966440964B5BB57B32D42.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_meshs/LVL_Laboratoire_meshs_Auto5.umap'
+[2022.02.02-22.40.21:001][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Bureau_lights_Auto53383228F40DEFEE7239874932FEC2F07.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_lights/LVL_Bureau_lights_Auto5.umap'
+[2022.02.02-22.40.21:003][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_lights_Auto57ED4F17846055AF65D075B910D27A6E3.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_lights/LVL_Couloir_lights_Auto5.umap'
+[2022.02.02-22.40.21:006][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_lights_Auto5FA6F17214DFC745AD6CC87B73236B9B1.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_lights/LVL_Depart_lights_Auto5.umap'
+[2022.02.02-22.40.21:008][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_lights_Auto56E569BF5405B208D77F5909AB8A9A262.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_lights/LVL_Finale_lights_Auto5.umap'
+[2022.02.02-22.40.21:010][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_lights_Auto54DF0582445379ED96C4C1EA7E8F8AC19.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_lights/LVL_Laboratoire_lights_Auto5.umap'
+[2022.02.02-22.40.21:013][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Bureau_vfx_Auto595BBE5784A9B1D6D80946CBA200128DD.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_vfx/LVL_Bureau_vfx_Auto5.umap'
+[2022.02.02-22.40.21:015][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_vfx_Auto5EDFA96654A2AB098D7FA01968BF83AE6.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_vfx/LVL_Couloir_vfx_Auto5.umap'
+[2022.02.02-22.40.21:017][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_vfx_Auto5774346CD4D52CD35A99EF38B1398837B.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_vfx/LVL_Depart_vfx_Auto5.umap'
+[2022.02.02-22.40.21:020][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_vfx_Auto551D14B974BAB8C79F70E8CA53E96F545.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_vfx/LVL_Finale_vfx_Auto5.umap'
+[2022.02.02-22.40.21:022][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_vfx_Auto575E6D49A4D79AE4FE39347B1A1339809.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Levels/SubLevels_vfx/LVL_Laboratoire_vfx_Auto5.umap'
+[2022.02.02-22.40.21:023][428]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LVL_main' took 0.094
+[2022.02.02-22.40.21:023][428]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2022.02.02-22.40.21:023][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Mesh/Salle_entree/Plateforme/Plateforme_left/Salle_depart_plateforme_middle] ([1] browsable assets)...
+[2022.02.02-22.40.21:032][428]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Mesh/Salle_entree/Plateforme/Plateforme_left/Salle_depart_plateforme_middle.Salle_depart_plateforme_middle]
+[2022.02.02-22.40.21:032][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Mesh/Salle_entree/Plateforme/Plateforme_left/Salle_depart_plateforme_middle]
+[2022.02.02-22.40.21:039][428]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Salle_depart_plateforme_middle_A70FE137144EB0D3D85EAE5BEF30017F1.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Autosaves/Game/Assets/Mesh/Salle_entree/Plateforme/Plateforme_left/Salle_depart_plateforme_middle_Auto5.uasset'
+[2022.02.02-22.40.21:040][428]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.02.02-22.42.28:829][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-22.42.28:899][367]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Bureau_meshs4726CF0D466D4B4477DB5EB38A02B9B3.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Bureau_meshs.umap'
+[2022.02.02-22.42.29:042][367]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Bureau_meshs_BuiltData1722AFD744885C2D96B89CAA07BA7F63.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Bureau_meshs_BuiltData.uasset'
+[2022.02.02-22.42.29:053][367]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.02-22.42.29:053][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_meshs/LVL_Bureau_meshs_BuiltData.LVL_Bureau_meshs_BuiltData
+[2022.02.02-22.42.29:053][367]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_meshs/LVL_Bureau_meshs.LVL_Bureau_meshs
+[2022.02.02-22.42.55:452][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.02.02-22.42.57:364][711]LogSlate: Window 'Save Content' being destroyed
+[2022.02.02-22.42.57:400][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.02.02-22.42.57:403][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Bureau_lights191E828B42B80065EFA413B3DB54DD29.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Bureau_lights.umap'
+[2022.02.02-22.42.57:404][711]LogFileHelpers: Saving map 'LVL_Bureau_lights' took 0.007
+[2022.02.02-22.42.57:405][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Bureau_lights_BuiltDataB08D8A94440DD035B222BD8D9E42B0D3.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Bureau_lights_BuiltData.uasset'
+[2022.02.02-22.42.57:408][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.02.02-22.42.57:410][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Bureau_vfx1D2F4CC84C6F2D185646B38645715118.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Bureau_vfx.umap'
+[2022.02.02-22.42.57:411][711]LogFileHelpers: Saving map 'LVL_Bureau_vfx' took 0.005
+[2022.02.02-22.42.57:412][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Bureau_vfx_BuiltData6E58520B4E0F5E29E70C63AF5D2A7F29.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Bureau_vfx_BuiltData.uasset'
+[2022.02.02-22.42.57:415][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.02-22.42.57:417][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_lightsC6CDAF924E8A6CAD06F4EDB1A544D8A8.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Couloir_lights.umap'
+[2022.02.02-22.42.57:418][711]LogFileHelpers: Saving map 'LVL_Couloir_lights' took 0.005
+[2022.02.02-22.42.57:418][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_lights_BuiltData23D837084E5793692C4B87A0588379EF.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Couloir_lights_BuiltData.uasset'
+[2022.02.02-22.42.57:422][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.02.02-22.42.57:432][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_meshs3E799E394E05613F3BD657A72B71D934.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Couloir_meshs.umap'
+[2022.02.02-22.42.57:433][711]LogFileHelpers: Saving map 'LVL_Couloir_meshs' took 0.014
+[2022.02.02-22.42.57:450][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_meshs_BuiltDataA183D9F04FF2E139E5026A835C8E25E5.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Couloir_meshs_BuiltData.uasset'
+[2022.02.02-22.42.57:468][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_meshs_BuiltDataC05D04124C0F06D41D8AC193D8254F03.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Couloir_meshs_BuiltData.uasset'
+[2022.02.02-22.42.57:472][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.02.02-22.42.57:474][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_vfx18C9D60342007BF2203F4DBAD8BB5576.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Couloir_vfx.umap'
+[2022.02.02-22.42.57:475][711]LogFileHelpers: Saving map 'LVL_Couloir_vfx' took 0.006
+[2022.02.02-22.42.57:475][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Couloir_vfx_BuiltData7A49AD614C62DD7CCEE319B9A265BDE6.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Couloir_vfx_BuiltData.uasset'
+[2022.02.02-22.42.57:479][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.02.02-22.42.57:481][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_lightsF33B2818454EA852413A958396BEE5C7.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Depart_lights.umap'
+[2022.02.02-22.42.57:481][711]LogFileHelpers: Saving map 'LVL_Depart_lights' took 0.005
+[2022.02.02-22.42.57:482][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_lights_BuiltData0724DF8E4226E6348F2F4A90D08E0248.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Depart_lights_BuiltData.uasset'
+[2022.02.02-22.42.57:485][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-22.42.57:493][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_meshsD9EC7F3B4404B92BE716D6ABD721C6EA.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Depart_meshs.umap'
+[2022.02.02-22.42.57:493][711]LogFileHelpers: Saving map 'LVL_Depart_meshs' took 0.011
+[2022.02.02-22.42.57:509][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_meshs_BuiltData0B5A0D1844BFE3074C8A0089360713FA.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Depart_meshs_BuiltData.uasset'
+[2022.02.02-22.42.57:526][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_meshs_BuiltData85D8F97A4CE7276CCF1A3385DFF349F0.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Depart_meshs_BuiltData.uasset'
+[2022.02.02-22.42.57:530][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.02.02-22.42.57:532][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_vfx8042CFC947F46BB8413056BF350ECE6D.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Depart_vfx.umap'
+[2022.02.02-22.42.57:533][711]LogFileHelpers: Saving map 'LVL_Depart_vfx' took 0.006
+[2022.02.02-22.42.57:534][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Depart_vfx_BuiltData756F2B194FAFFA5FB62E2AB67711F1DF.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Depart_vfx_BuiltData.uasset'
+[2022.02.02-22.42.57:537][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-22.42.57:539][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_lights7769575742A8EB440860BABA27F7E817.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Finale_lights.umap'
+[2022.02.02-22.42.57:540][711]LogFileHelpers: Saving map 'LVL_Finale_lights' took 0.005
+[2022.02.02-22.42.57:541][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_lights_BuiltData8F5755144D607B277512B7B3B8340412.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Finale_lights_BuiltData.uasset'
+[2022.02.02-22.42.57:544][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.02.02-22.42.57:552][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_meshs79D7B4D4439AC0F5706967B006E7F153.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Finale_meshs.umap'
+[2022.02.02-22.42.57:553][711]LogFileHelpers: Saving map 'LVL_Finale_meshs' took 0.011
+[2022.02.02-22.42.57:566][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_meshs_BuiltData964EB855426A98219794D98BD5D77420.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Finale_meshs_BuiltData.uasset'
+[2022.02.02-22.42.57:579][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_meshs_BuiltData9B5E60AD4CE8C78D209C0E908844F0D4.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Finale_meshs_BuiltData.uasset'
+[2022.02.02-22.42.57:582][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.02.02-22.42.57:584][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_vfx205F9C124EFA7E44458983A2D6DB3926.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Finale_vfx.umap'
+[2022.02.02-22.42.57:585][711]LogFileHelpers: Saving map 'LVL_Finale_vfx' took 0.006
+[2022.02.02-22.42.57:586][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Finale_vfx_BuiltData7E69519B4290718FB106C4A9BE61C88C.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Finale_vfx_BuiltData.uasset'
+[2022.02.02-22.42.57:589][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-22.42.57:591][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_lightsBFE7F45F4F1CC754E0043E8218D3CF32.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Laboratoire_lights.umap'
+[2022.02.02-22.42.57:592][711]LogFileHelpers: Saving map 'LVL_Laboratoire_lights' took 0.005
+[2022.02.02-22.42.57:593][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_lights_BuiltData05CE42B847AF8A6115ABFA85E5BAE44A.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_lights/LVL_Laboratoire_lights_BuiltData.uasset'
+[2022.02.02-22.42.57:596][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.02-22.42.57:606][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_meshsD189B9BA4A07304A81F37E93E57FA822.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Laboratoire_meshs.umap'
+[2022.02.02-22.42.57:607][711]LogFileHelpers: Saving map 'LVL_Laboratoire_meshs' took 0.013
+[2022.02.02-22.42.57:621][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_meshs_BuiltData57E105DB4AD92B0C90B333876BA475DB.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Laboratoire_meshs_BuiltData.uasset'
+[2022.02.02-22.42.57:635][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_meshs_BuiltData9C11FABD4C60492DF7D11897810013A4.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_meshs/LVL_Laboratoire_meshs_BuiltData.uasset'
+[2022.02.02-22.42.57:639][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.02.02-22.42.57:641][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_vfxE93273A44EA60103450A7FAD16277F16.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Laboratoire_vfx.umap'
+[2022.02.02-22.42.57:641][711]LogFileHelpers: Saving map 'LVL_Laboratoire_vfx' took 0.005
+[2022.02.02-22.42.57:642][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_Laboratoire_vfx_BuiltData99A7E5194C322A0527B9B4A472C86430.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/SubLevels_vfx/LVL_Laboratoire_vfx_BuiltData.uasset'
+[2022.02.02-22.42.57:643][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_main" FILE="C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/LVL_main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.02-22.42.57:646][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.02.02-22.42.57:675][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_mainA4364FA0486B3DB2967E099C0C87F1DB.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/LVL_main.umap'
+[2022.02.02-22.42.57:681][711]LogFileHelpers: Saving map 'LVL_main' took 0.038
+[2022.02.02-22.42.57:682][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_main_BuiltData" FILE="C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/LVL_main_BuiltData.uasset" SILENT=true
+[2022.02.02-22.42.57:741][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_main_BuiltDataA489B7F54D232477D7B8D7AF86FCD7EA.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/LVL_main_BuiltData.uasset'
+[2022.02.02-22.42.57:742][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_main_BuiltData" FILE="C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/LVL_main_BuiltData.uasset" SILENT=true
+[2022.02.02-22.42.57:803][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/LVL_main_BuiltDataBDEC046343A18A6765C5B4B8AA9BC41B.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Levels/LVL_main_BuiltData.uasset'
+[2022.02.02-22.42.57:808][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Salle_depart_plateforme_middleF3C3CB984F6E62C1349EF685C7E91CFC.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Assets/Mesh/Salle_entree/Plateforme/Plateforme_left/Salle_depart_plateforme_middle.uasset'
+[2022.02.02-22.42.57:829][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/salle_depart_sous_marin_triangle9D4DF00B4A21701EB6E49CAFF2CB2074.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Assets/Mesh/Salle_entree/Bathysphere/salle_depart_sous_marin_triangle_middle.uasset'
+[2022.02.02-22.42.57:842][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Salle_depart_zone_arimage_HB_ari594852984F1C93FACBE000B8C1EF0DF2.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Assets/Mesh/Salle_entree/Zone_arimage/Salle_depart_zone_arimage_HB_arimage_L.uasset'
+[2022.02.02-22.42.57:853][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Salle_depart_zone_arimage_HB_pCuCF27521145C2D9C69361A788ACB9D6EC.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Assets/Mesh/Salle_entree/Zone_arimage/Salle_depart_zone_arimage_HB_pCube1.uasset'
+[2022.02.02-22.42.57:866][711]LogSavePackage: Moving 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Saved/Salle_depart_zone_arimage_middle75087D4148328C3D1380178898CC68D3.tmp' to 'C:/Users/jiyan/OneDrive/Documents/GitHub/BioPulseProject/BioPulse_V1/Content/Assets/Mesh/Salle_entree/Zone_arimage/Salle_depart_zone_arimage_middle.uasset'
+[2022.02.02-22.42.57:893][711]LogSlate: Window 'BioPulse_V1 - Unreal Editor' being destroyed
+[2022.02.02-22.42.58:078][711]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Mesh/Salle_entree/Bathysphere/salle_depart_sous_marin_triangle_middle.salle_depart_sous_marin_triangle_middle
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Mesh/Salle_entree/Zone_arimage/Salle_depart_zone_arimage_HB_pCube1.Salle_depart_zone_arimage_HB_pCube1
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Mesh/Salle_entree/Zone_arimage/Salle_depart_zone_arimage_HB_arimage_L.Salle_depart_zone_arimage_HB_arimage_L
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/LVL_main_BuiltData.LVL_main_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Mesh/Salle_entree/Plateforme/Plateforme_left/Salle_depart_plateforme_middle.Salle_depart_plateforme_middle
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Mesh/Salle_entree/Zone_arimage/Salle_depart_zone_arimage_middle.Salle_depart_zone_arimage_middle
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/LVL_main.LVL_main
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_lights/LVL_Bureau_lights_BuiltData.LVL_Bureau_lights_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_lights/LVL_Bureau_lights.LVL_Bureau_lights
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_lights/LVL_Couloir_lights_BuiltData.LVL_Couloir_lights_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_lights/LVL_Couloir_lights.LVL_Couloir_lights
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_lights/LVL_Depart_lights_BuiltData.LVL_Depart_lights_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_lights/LVL_Depart_lights.LVL_Depart_lights
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_lights/LVL_Finale_lights_BuiltData.LVL_Finale_lights_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_lights/LVL_Finale_lights.LVL_Finale_lights
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_lights/LVL_Laboratoire_lights_BuiltData.LVL_Laboratoire_lights_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_lights/LVL_Laboratoire_lights.LVL_Laboratoire_lights
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_vfx/LVL_Bureau_vfx_BuiltData.LVL_Bureau_vfx_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_vfx/LVL_Bureau_vfx.LVL_Bureau_vfx
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_vfx/LVL_Couloir_vfx_BuiltData.LVL_Couloir_vfx_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_vfx/LVL_Couloir_vfx.LVL_Couloir_vfx
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_vfx/LVL_Depart_vfx_BuiltData.LVL_Depart_vfx_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_vfx/LVL_Depart_vfx.LVL_Depart_vfx
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_vfx/LVL_Finale_vfx_BuiltData.LVL_Finale_vfx_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_vfx/LVL_Finale_vfx.LVL_Finale_vfx
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_vfx/LVL_Laboratoire_vfx_BuiltData.LVL_Laboratoire_vfx_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_vfx/LVL_Laboratoire_vfx.LVL_Laboratoire_vfx
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_meshs/LVL_Couloir_meshs_BuiltData.LVL_Couloir_meshs_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_meshs/LVL_Couloir_meshs.LVL_Couloir_meshs
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_meshs/LVL_Depart_meshs_BuiltData.LVL_Depart_meshs_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_meshs/LVL_Depart_meshs.LVL_Depart_meshs
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_meshs/LVL_Finale_meshs_BuiltData.LVL_Finale_meshs_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_meshs/LVL_Finale_meshs.LVL_Finale_meshs
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/SubLevels_meshs/LVL_Laboratoire_meshs_BuiltData.LVL_Laboratoire_meshs_BuiltData
+[2022.02.02-22.42.58:078][711]LogContentValidation: Display: Validating World /Game/Levels/SubLevels_meshs/LVL_Laboratoire_meshs.LVL_Laboratoire_meshs
+[2022.02.02-22.42.58:088][712]Cmd: QUIT_EDITOR
+[2022.02.02-22.42.58:088][712]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.02-22.42.58:091][712]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.02-22.42.58:313][712]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.02-22.42.58:313][712]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.02-22.42.58:313][712]LogAudio: Display: Audio Device unregistered from world 'LVL_main'.
+[2022.02.02-22.42.58:313][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-22.42.58:321][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.02-22.42.58:345][712]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.02-22.42.58:346][712]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.02-22.42.58:351][712]LogExit: Preparing to exit.
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071B15D00] Windows
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071B15C00] Default__DeviceProfile
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEAC00] WindowsNoEditor
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071B14D00] WindowsServer
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEB800] WindowsClient
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071B16A00] IOS
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEA200] iPadAir
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071B16D00] iPadAir2
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FB000] IPadPro
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FB100] iPadAir3
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071B15500] iPadAir4
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FA800] iPadMini2
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071B17200] iPadMini3
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9600] iPadMini4
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071B15200] iPadMini5
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A76900] iPhone6
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A76A00] iPodTouch6
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FB600] iPhone7
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FB700] iPodTouch7
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A76700] iPhone5S
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F8100] iPhone6Plus
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A75400] iPhone6S
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F8700] iPhone6SPlus
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A74200] iPhone7Plus
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FA600] iPhoneSE
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A77000] iPhone8
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FBF00] iPhone8Plus
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A75C00] iPhoneX
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FA200] iPhoneXS
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A74300] iPhoneXSMax
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FBC00] iPhoneXR
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A77E00] iPhone11
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FA000] iPhone11Pro
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A77500] iPhone11ProMax
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FAC00] iPhoneSE2
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A76C00] iPhone12Mini
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F8B00] iPhone12
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A76200] iPhone12Pro
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FB400] iPhone12ProMax
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A77100] iPadPro105
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FBD00] iPadPro129
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE9700] iPadPro97
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A77400] iPadPro2_129
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE9F00] iPad5
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A76100] iPad6
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE9800] iPad7
+[2022.02.02-22.42.58:961][712]LogDeviceProfile: Device profile begin destroy: [000001E072A76600] iPad8
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE8100] iPadPro11
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E072A75D00] iPadPro2_11
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEA000] iPadPro3_129
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E072A76D00] iPadPro4_129
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEAA00] AppleTV
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9700] AppleTV4K
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEA700] TVOS
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9900] Mac
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEB400] MacClient
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9A00] MacNoEditor
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE8200] MacServer
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FA700] Linux
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE8800] LinuxAArch64
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F8C00] LinuxNoEditor
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE9D00] LinuxAArch64NoEditor
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F8800] LinuxClient
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEB600] LinuxAArch64Client
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F8F00] LinuxServer
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE8F00] LinuxAArch64Server
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FAA00] Android
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE9900] Android_Low
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FBA00] Android_Mid
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEA800] Android_High
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FA400] Android_Default
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE8A00] Android_Adreno4xx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F8A00] Android_Adreno5xx_Low
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEA500] Android_Adreno5xx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9D00] Android_Adreno6xx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEAF00] Android_Adreno6xx_Vulkan
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F8D00] Android_Mali_T6xx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE8700] Android_Mali_T7xx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9000] Android_Mali_T8xx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE9100] Android_Mali_G71
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9E00] Android_Mali_G72
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEA300] Android_Mali_G72_Vulkan
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9200] Android_Mali_G76
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEB500] Android_Mali_G76_Vulkan
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9800] Android_Mali_G77
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AE9400] Android_Mali_G77_Vulkan
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FBB00] Android_Vulkan_SM5
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEB200] Android_PowerVR_G6xxx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FB900] Android_PowerVR_GT7xxx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEAD00] Android_PowerVR_GE8xxx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729F9100] Android_PowerVR_GM9xxx
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEBD00] Android_PowerVR_GM9xxx_Vulkan
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FA300] Android_TegraK1
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071AEB000] Android_Unknown_Vulkan
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E0729FB800] Lumin
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E071B17000] Lumin_Desktop
+[2022.02.02-22.42.58:962][712]LogDeviceProfile: Device profile begin destroy: [000001E072A74800] HoloLens
+[2022.02.02-22.42.58:972][712]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.58:973][712]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.58:973][712]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:005][712]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.02-22.42.59:017][712]LogExit: Transaction tracking system shut down
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:023][712]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.02-22.42.59:024][712]LogExit: Editor shut down
+[2022.02.02-22.42.59:436][712]LogExit: Object subsystem successfully closed.
+[2022.02.02-22.42.59:465][712]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.02.02-22.42.59:484][712]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (824)
+[2022.02.02-22.42.59:484][712]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (822)
+[2022.02.02-22.42.59:484][712]LogModuleManager: Shutting down and abandoning module Voice (820)
+[2022.02.02-22.42.59:484][712]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (818)
+[2022.02.02-22.42.59:485][712]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2022.02.02-22.42.59:485][712]LogModuleManager: Shutting down and abandoning module SceneOutliner (814)
+[2022.02.02-22.42.59:485][712]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (790)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (788)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (786)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (784)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (782)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (780)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module WebMMedia (778)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (776)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (774)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (772)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (770)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module SequenceRecorder (769)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (766)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (764)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (762)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (760)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (758)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (756)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (754)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (752)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (750)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (748)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module PlanarCut (746)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2022.02.02-22.42.59:487][712]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2022.02.02-22.42.59:488][712]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2022.02.02-22.43.00:980][712]MemoryProfiler: Shutdown
+[2022.02.02-22.43.00:980][712]NetworkingProfiler: Shutdown
+[2022.02.02-22.43.00:980][712]LoadingProfiler: Shutdown
+[2022.02.02-22.43.00:980][712]TimingProfiler: Shutdown
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2022.02.02-22.43.00:980][712]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2022.02.02-22.43.00:981][712]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2022.02.02-22.43.00:981][712]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2022.02.02-22.43.00:981][712]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2022.02.02-22.43.00:981][712]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2022.02.02-22.43.00:981][712]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2022.02.02-22.43.00:981][712]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2022.02.02-22.43.00:981][712]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2022.02.02-22.43.00:981][712]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2022.02.02-22.43.01:014][712]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2022.02.02-22.43.01:015][712]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2022.02.02-22.43.01:015][712]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2022.02.02-22.43.01:015][712]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2022.02.02-22.43.01:015][712]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2022.02.02-22.43.01:015][712]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2022.02.02-22.43.01:016][712]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2022.02.02-22.43.01:021][712]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2022.02.02-22.43.01:207][712]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2022.02.02-22.43.01:207][712]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2022.02.02-22.43.01:207][712]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2022.02.02-22.43.01:207][712]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2022.02.02-22.43.01:207][712]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2022.02.02-22.43.01:207][712]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2022.02.02-22.43.01:207][712]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module SynthesisEditor (546)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module Synthesis (544)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (542)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (540)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (538)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GooglePAD (536)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module EditableMesh (534)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (532)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module CableComponent (530)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AssetTags (528)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AudioCapture (526)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (525)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (522)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (520)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AppleImageUtils (518)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AndroidPermission (516)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (514)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (512)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module TemplateSequence (510)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MediaCompositing (508)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ImgMedia (506)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (504)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (502)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (500)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (498)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (496)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (494)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MotoSynth (492)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MeshConversion (490)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module DynamicMesh (488)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (486)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometricObjects (484)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (482)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (481)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (478)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (476)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (474)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (472)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (470)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ChaosNiagara (468)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (466)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module FractureEditor (464)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (463)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (460)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module BackChannel (458)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (456)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AutomationUtils (454)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AlembicImporter (452)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module AlembicLibrary (451)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometryCache (450)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (449)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (444)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (442)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (440)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (438)
+[2022.02.02-22.43.01:208][712]LogModuleManager: Shutting down and abandoning module PluginBrowser (436)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (434)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module CurveEditorTools (432)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (430)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module UObjectPlugin (428)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (426)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (424)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module CryptoKeys (422)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (420)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (418)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module PluginUtils (416)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (414)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (412)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module GitSourceControl (410)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module SourceControl (409)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (406)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (404)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2022.02.02-22.43.01:209][712]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2022.02.02-22.43.01:310][712]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (366)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (364)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (362)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (360)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (358)
+[2022.02.02-22.43.01:411][712]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (356)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (354)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (352)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (350)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapController (348)
+[2022.02.02-22.43.01:411][712]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (346)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module MagicLeapAR (344)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module AugmentedReality (343)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (340)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module Niagara (338)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module SignalProcessing (337)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module NiagaraEditor (335)
+[2022.02.02-22.43.01:411][712]LogModuleManager: Shutting down and abandoning module NiagaraCore (332)
+[2022.02.02-22.43.01:412][712]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (330)
+[2022.02.02-22.43.01:412][712]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (328)
+[2022.02.02-22.43.01:412][712]LogModuleManager: Shutting down and abandoning module FacialAnimation (326)
+[2022.02.02-22.43.01:412][712]LogModuleManager: Shutting down and abandoning module DataValidation (324)
+[2022.02.02-22.43.01:412][712]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (322)
+[2022.02.02-22.43.01:412][712]LogModuleManager: Shutting down and abandoning module LevelEditor (321)
+[2022.02.02-22.43.01:413][712]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (320)
+[2022.02.02-22.43.01:413][712]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (318)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module MainFrame (316)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module HotReload (315)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module ToolMenus (311)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module ContentBrowser (309)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module ContentBrowserData (308)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module TreeMap (305)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (302)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2022.02.02-22.43.01:414][712]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.02.02-22.43.01:419][712]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.02.02-22.43.01:420][712]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.02.02-22.43.01:420][712]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.02.02-22.43.01:420][712]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.02.02-22.43.01:420][712]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.02.02-22.43.01:420][712]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.02.02-22.43.01:420][712]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.02.02-22.43.01:421][712]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.02.02-22.43.01:421][712]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.02.02-22.43.01:421][712]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.02.02-22.43.01:421][712]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.02.02-22.43.01:421][712]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.02.02-22.43.01:421][712]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.02.02-22.43.01:421][712]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.02.02-22.43.01:421][712]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.02.02-22.43.01:421][712]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.02.02-22.43.01:423][712]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.02.02-22.43.01:424][712]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.02.02-22.43.01:429][712]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.02.02-22.43.01:429][712]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.02.02-22.43.01:429][712]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.02.02-22.43.01:429][712]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.02.02-22.43.01:429][712]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.02.02-22.43.01:439][712]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.02.02-22.43.01:439][712]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.02.02-22.43.01:439][712]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.02.02-22.43.01:439][712]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.02.02-22.43.01:439][712]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.02.02-22.43.01:439][712]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.02.02-22.43.01:439][712]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.02.02-22.43.01:439][712]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.02.02-22.43.01:439][712]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.02.02-22.43.01:442][712]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.02.02-22.43.01:485][712]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.02.02-22.43.01:485][712]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.02.02-22.43.01:485][712]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.02.02-22.43.01:485][712]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.02.02-22.43.01:486][712]LogHMD: Freeing OpenVRDLLHandle.
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (88)
+[2022.02.02-22.43.01:486][712]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.02.02-22.43.01:487][712]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.02.02-22.43.01:487][712]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.02.02-22.43.01:508][712]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.02.02-22.43.01:508][712]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.02.02-22.43.01:508][712]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3CE160F5-4848-F0FB-A6C0-5CA9AE4B8233%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=9e8acc0447d285bb76d64899fcc08141%7Cfb6e75eb09164e20b7475887839279dd%7Cbb16b530-9563-4127-a516-add2f69e6532&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.02.02-22.43.01:508][712]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.02.02-22.43.01:522][712]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.02.02-22.43.01:524][712]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.02.02-22.43.01:525][712]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.02.02-22.43.01:526][712]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.02.02-22.43.01:526][712]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.02.02-22.43.01:526][712]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.02.02-22.43.01:526][712]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.02.02-22.43.01:526][712]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.02.02-22.43.01:526][712]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.02.02-22.43.01:526][712]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2022.02.02-22.43.01:526][712]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.02.02-22.43.01:526][712]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.02.02-22.43.01:527][712]LogXGEController: Cleaning working directory: C:/Users/jiyan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.02.02-22.43.01:527][712]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.02.02-22.43.01:528][712]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.02.02-22.43.01:529][712]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.02.02-22.43.01:529][712]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.02.02-22.43.01:532][712]LogD3D11RHI: Shutdown
+[2022.02.02-22.43.01:532][712]LogD3D11RHI: CleanupD3DDevice
+[2022.02.02-22.43.01:554][712]LogExit: Exiting.
+[2022.02.02-22.43.01:570][712]Log file closed, 02/02/22 23:43:01
