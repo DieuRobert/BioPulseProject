@@ -69,11 +69,11 @@ Build/*/**
 BioPulse_V1/Saved/*
 
 # Compiled source files for the engine to use
-BioPulse_V1/Intermediate/*
+BioPulse_V1/Intermediate/**
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-BioPulse_V1/DerivedDataCache/*
+BioPulse_V1/DerivedDataCache/**
 
 # Saves des projets
-Saves/*
+Saves/**
