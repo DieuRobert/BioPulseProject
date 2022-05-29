@@ -7,10 +7,6 @@
 		{
 			"Name": "Volumetrics",
 			"Enabled": true
-		},
-		{
-			"Name": "Water",
-			"Enabled": true
 		}
 	]
 }
